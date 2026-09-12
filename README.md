@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./a_wide_dark_modern_tech_themed_banner_image_with.png" width="100%" alt="Gali Lazar - Full Stack Developer">
+
+</div>
+
+
+<div align="center">
+
 # GALI LAZAR
 
 ### Full-Stack Developer ✦ AI Enthusiast ✦ Builder
